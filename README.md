@@ -9,7 +9,7 @@ Landing Page for a Hospital Deenath Mangeshkar Hospital- Your Trusted Healthcare
 #ECD53F
 
 ### Languages Used:
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px"  style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px"  style="padding-right:10px;" />][cssplaylist]
 
