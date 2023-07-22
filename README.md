@@ -6,3 +6,4 @@ Landing Page for a Hospital Deenath Mangeshkar Hospital- Your Trusted Healthcare
 2.No ads
 3.Elegant and simple design
 4.User Friendly
+#ECD53F
